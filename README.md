@@ -1,1 +1,1 @@
-# Truncated-SVD-Face-Recognition
+# Truncated SVD Face Recognition
